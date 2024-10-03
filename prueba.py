@@ -63,4 +63,4 @@ while(i < 1000):
     #time.sleep(0.5)
     os.system ("cls")
 
-    i+= 1
+    i+= 2
