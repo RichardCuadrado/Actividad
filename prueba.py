@@ -31,18 +31,5 @@ while(True):
     #time.sleep(0.5)
     os.system ("cls")
 
-      #Segundo
-    print ("")   
-    for i in range (9):
-        print ("  "*i, end="")
-        for j in range (i, 9):
-            print (j, end= " ")
-        print ("")
-    for i in range (7,-1,-1):
-        print ("  "*i, end="")
-        for j in range (i, 9):
-            print (j, end= " ")
-        print ("")
-    #time.sleep(0.5)
-    os.system ("cls")
+
 
