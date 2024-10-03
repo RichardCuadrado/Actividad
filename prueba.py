@@ -30,6 +30,3 @@ while(True):
         print ("")
     #time.sleep(0.5)
     os.system ("cls")
-
-
-
