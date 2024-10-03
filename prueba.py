@@ -1,6 +1,8 @@
 import os
 import time
-while(True):
+
+i = 0
+while(i < 1000):
     #Primero
     os.system ("cls")
     print ("")  
@@ -60,3 +62,5 @@ while(True):
         print ("")
     #time.sleep(0.5)
     os.system ("cls")
+
+    i+= 1
